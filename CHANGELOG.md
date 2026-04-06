@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.1](https://github.com/Soju06/codex-lb/compare/v1.11.0...v1.11.1) (2026-04-06)
+
+
+### Bug Fixes
+
+* **dashboard:** restore capacity-based usage donut totals ([#336](https://github.com/Soju06/codex-lb/issues/336)) ([1bcdcaa](https://github.com/Soju06/codex-lb/commit/1bcdcaacc1a51d3ce4f794b479383f6a9fe1158a))
+
 ## [1.11.0](https://github.com/Soju06/codex-lb/compare/v1.10.1...v1.11.0) (2026-04-06)
 
 
